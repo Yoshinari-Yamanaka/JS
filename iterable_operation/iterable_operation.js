@@ -77,3 +77,8 @@ const sample = {
 console.log(search(sample,"string"));
 // get number value
 console.log(search(sample,"number"));
+
+
+//make list
+x = [...Array(10).keys()]  //[ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+x = [...Array(10).keys()].filter((x)=> x % 2 == 0 )  //[ 0, 2, 4, 6, 8 ]
