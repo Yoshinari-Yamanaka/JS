@@ -12,8 +12,8 @@
 
 
 
-## openssl help
-Show every sub commands for OpenSSL
+## Show every sub commands for OpenSSL
+openssl help
 
 ```
 Standard commands
