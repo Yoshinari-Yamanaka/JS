@@ -60,7 +60,7 @@ seed-ecb          seed-ofb          sm4-cbc           sm4-cfb
 sm4-ctr           sm4-ecb           sm4-ofb           
 ```
 
-## Cipehrs
+## Ciphers
 
 openssl ciphers -v
 
